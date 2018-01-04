@@ -7,4 +7,5 @@ firstdigit=n/10;
 seconddigit=n%10;
 reverse=(seconddigit*10)+firstdigit;
 printf("the reversal no is %d",reverse);
+  return 0;
 }
